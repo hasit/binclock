@@ -24,7 +24,7 @@ int main()
       minutes = mytime->tm_min;
       hours = mytime->tm_hour;
       
-      std::cout<<"H:"<<converttobin(hours)<<" M:"<<converttobin(minutes)<<" S:"<<converttobin(seconds)<<"\r"<<std::flush;
+      std::cout<<"H:"<<converttobin(hours)<<"\nM:"<<converttobin(minutes)<<"\nS:"<<converttobin(seconds)<<"\r\x1b[A\x1b[A"<<std::flush;
       sleep(1);
     }
  
