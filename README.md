@@ -14,11 +14,11 @@ $ cd ~/binclock/
 ```
 
 ```
-$ g++ working_binclock.cpp -o wbc
+$ g++ binclock.cpp -o bc
 ```
 
 ```
-$ ./wbc
+$ ./bc
 ```
 
 ## How to read the clock ##
