@@ -31,7 +31,15 @@ int main()
 	{
 	  for(int j=0;j<6;j++)
 	    {
-	      cout<<matrix[i][j];
+	      if(j%2==0)
+		{
+		  cout<<"  "<<matrix[i][j];
+		}
+	      else
+		{
+		  cout<<matrix[i][j];
+		}
+
 	    }
 	  cout<<"\n";
 	}
