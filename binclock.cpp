@@ -46,6 +46,7 @@ int main()
 	    }
 	  wcout<<"\n";
 	}
+      wcout<<"  H   M   S";
       wcout<<"\r\x1b[A\x1b[A\x1b[A\x1b[A"<<flush;
       sleep(1);
     }
