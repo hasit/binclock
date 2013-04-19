@@ -22,7 +22,4 @@ $ ./wbc
 ```
 
 ## How to read the clock ##
-```
-http://heldermonteiro.files.wordpress.com/2010/11/binary-clock-method-300.jpg
-```
-Note: The above is a sample photo. The blog is not mine.
+A picture explaining how to read a binary clock [here](http://heldermonteiro.files.wordpress.com/2010/11/binary-clock-method-300.jpg).
